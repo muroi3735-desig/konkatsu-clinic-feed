@@ -18,7 +18,8 @@ from urllib.request import urlopen, Request
 from xml.etree import ElementTree as ET
 
 UA = "meets-lab clinic feed reader/1.0 (+https://meets-lab.com/clinic)"
-TIMEOUT = 20
+TIMEOUT = 40
+RETRIES = 3
 NS = {"content": "http://purl.org/rss/1.0/modules/content/",
       "media": "http://search.yahoo.com/mrss/",
       "atom": "http://www.w3.org/2005/Atom",
@@ -36,7 +37,8 @@ SOURCES = [
      "url": "https://bridal-marl.com/feed/",
      "imageHost": "bridal-marl.com", "media": "ブログ"},
     {"agencyId": "gon", "name": "ゴンちゃんの結婚相談所", "kind": "youtube",
-     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKNsTY9-KKiYu_1CWjfWRZA",
+     # 2026-09-24: channel_id 形式のフィードが404になったため、アップロード再生リスト（UU…）のフィードを使う。
+     "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UUKNsTY9-KKiYu_1CWjfWRZA",
      "media": "YouTube"},
     # エトワールマリッジナオ＝2026-09-21に発信URLを受領（エトワール→山本さんへのLINE）。
     # ブログ名「ナースがはじめた神戸の結婚相談所」／運営者名の表記は「ナオ」。
@@ -52,7 +54,15 @@ DROP_PARAMS = ("utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_cont
 
 
 def fetch(url):
-    return urlopen(Request(url, headers={"User-Agent": UA}), timeout=TIMEOUT).read()
+    """相手サイトが遅いときのために最大3回まで取り直す。"""
+    last = None
+    for n in range(RETRIES):
+        try:
+            return urlopen(Request(url, headers={"User-Agent": UA}), timeout=TIMEOUT).read()
+        except Exception as ex:
+            last = ex
+            time.sleep(3 * (n + 1))
+    raise last
 
 
 def clean_url(u):
@@ -177,6 +187,14 @@ def main():
             errors.append({"agencyId": src["agencyId"], "error": str(ex)})
             print("NG  %-10s %s" % (src["agencyId"], ex), file=sys.stderr)
         time.sleep(1)  # 相手サーバへ連続アクセスしない
+
+    # 取得に失敗した相談所は、前回のJSONに入っていた分をそのまま残す（一時的な失敗で枠から消さない）。
+    try:
+        prev = json.load(open(a.out, encoding="utf-8")).get("items", [])
+    except Exception:
+        prev = []
+    failed = {e["agencyId"] for e in errors}
+    items.extend(i for i in prev if i.get("agencyId") in failed)
 
     if not items:
         print("取得0件のため既存のJSONを残します（空で上書きしない）", file=sys.stderr)
