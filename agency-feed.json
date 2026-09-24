@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-09-24T02:16:41.063761+00:00",
-  "errors": [
-    {
-      "agencyId": "marl",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "agencyId": "gon",
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
+  "generatedAt": "2026-09-24T02:23:41.209150+00:00",
+  "errors": [],
   "items": [
     {
       "agencyId": "etoile",
@@ -42,6 +33,66 @@
       "excerpt": "こんにちは神戸の結婚相談所 エトワールマリッジナオです 大阪梅田にあるセルフィットさんに行ってきました まずはどんな雰囲気にしたいか（可愛い、綺麗、清楚など）や、髪のセット（巻く・巻かない）を相談してからメイクへスタート"
     },
     {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "交際中に見抜ける！結婚すると苦労するモラハラ男性の特徴5選",
+      "url": "https://www.youtube.com/watch?v=vSny_sNLOiU",
+      "publishedAt": "2026-09-19T10:00:11+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/vSny_sNLOiU/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "マッチングアプリから結婚相談所へ。30代後半女性が婚活1年でつかんだ幸せ",
+      "url": "https://bridal-marl.com/new/%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%97%e3%83%aa%e3%81%8b%e3%82%89%e7%b5%90%e5%a9%9a%e7%9b%b8%e8%ab%87%e6%89%80%e3%81%b8%e3%80%8230%e4%bb%a3%e5%be%8c%e5%8d%8a%e5%a5%b3%e6%80%a7/",
+      "publishedAt": "2026-09-19T07:46:35+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7684294_0.jpg",
+      "excerpt": "「こんな日が迎えられるなんて」30代後半女性、婚活1年でご成婚 先日、成婚退会された卒業生とお祝い会をしました。 婚活中の思い出や成婚までの道のり、そして入籍後の新生活まで。 たくさんお話をする中で、 「こんな日が迎えら"
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "30代前半女性、婚活5ヶ月で見つけた運命のご縁♡「もっと早く動けばよかった」",
+      "url": "https://bridal-marl.com/new/30%e4%bb%a3%e5%89%8d%e5%8d%8a%e5%a5%b3%e6%80%a7%e3%80%81%e5%a9%9a%e6%b4%bb5%e3%83%b6%e6%9c%88%e3%81%a7%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%9f%e9%81%8b%e5%91%bd%e3%81%ae%e3%81%94%e7%b8%81%e2%99%a1/",
+      "publishedAt": "2026-09-18T01:45:35+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7725060_0.jpg",
+      "excerpt": "30代前半女性・活動5ヶ月で素敵なご縁に出会われました。ご成婚おめでとうございます！！ 「30代後半になった時に、あの時行動していればよかったと後悔したくなかった」 そんな思いから婚活をスタートされた彼女。 そして活動を"
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "「結婚したい人」が過去最低…それでも今、婚活を始めるべき理由",
+      "url": "https://www.youtube.com/watch?v=PExZwNtOMy4",
+      "publishedAt": "2026-09-17T16:07:31+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/PExZwNtOMy4/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "仲人だって怒ります！さすがに看過できなかった会員さんの行動",
+      "url": "https://www.youtube.com/watch?v=XPUe2TYd8_0",
+      "publishedAt": "2026-09-16T10:00:08+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XPUe2TYd8_0/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "婚活×理論で『成婚につながる婚活』へ｜LOVE LOGIC 11期がスタートしました♡",
+      "url": "https://bridal-marl.com/blog/%e5%a9%9a%e6%b4%bbx%e7%90%86%e8%ab%96%e3%81%a7%e3%80%8e%e6%88%90%e5%a9%9a%e3%81%ab%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8b%e5%a9%9a%e6%b4%bb%e3%80%8f%e3%81%b8%ef%bd%9clove-logic-11%e6%9c%9f%e3%81%8c/",
+      "publishedAt": "2026-09-14T05:44:50+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7585904_0.jpg",
+      "excerpt": "LOVE LOGIC 11期 START♡ 「頑張っているのに、なかなか婚活がうまくいかない…」 「いい人に出会えても、なぜか関係が続かない…」 「自分に合う相手が、そもそも分からない…」 そんな婚活のモヤモヤを抱えてい"
+    },
+    {
       "agencyId": "blue-star",
       "agencyName": "婚活サポート ブルースター",
       "media": "ブログ",
@@ -72,6 +123,26 @@
       "excerpt": "こんにちは エトワールマリッジナオです 今日は先日無料相談から 入会を決めてくださった方の プロフィール写真撮影に同行します 30代後半とは思えない可愛らしい 笑顔の素敵な女性なので 今日の写真撮影はとても楽しみです✨ "
     },
     {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "婚活のモチベーションが戻らない人へ。成婚者が実践した婚活疲れ解消技術",
+      "url": "https://www.youtube.com/watch?v=gDVe2hQ69E4",
+      "publishedAt": "2026-09-12T10:00:36+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/gDVe2hQ69E4/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【婚活写真】写真で会えても断られる…プロフィール写真詐欺の危険性",
+      "url": "https://www.youtube.com/watch?v=uw7Cjs5D0Co",
+      "publishedAt": "2026-09-11T03:48:27+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uw7Cjs5D0Co/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
       "agencyId": "etoile",
       "agencyName": "エトワールマリッジナオ",
       "media": "ブログ",
@@ -90,6 +161,36 @@
       "publishedAt": "2026-09-04T23:34:11+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/09/婚活クリニックブログ-300x188.jpg",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所 ブルースター 代表の山本です。 掲載された婚活クリニッ […]"
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "「湖の見える場所で」彼女の願いが叶った、成婚後のプロポーズ♡",
+      "url": "https://bridal-marl.com/new/%e3%80%8c%e6%b9%96%e3%81%ae%e8%a6%8b%e3%81%88%e3%82%8b%e5%a0%b4%e6%89%80%e3%81%a7%e3%80%8d%e5%bd%bc%e5%a5%b3%e3%81%ae%e9%a1%98%e3%81%84%e3%81%8c%e5%8f%b6%e3%81%a3%e3%81%9f%e3%80%81%e6%88%90%e5%a9%9a/",
+      "publishedAt": "2026-09-04T07:07:54+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7249954_0.jpg",
+      "excerpt": "「湖の見える場所で」叶った、ふたりの特別な一日 ご成婚されたおふたりから、素敵なお写真が届きました♡ ご成婚後、ふたりで訪れたのは、自然に囲まれた湖の見えるロッジ。 実は彼女には、プロポーズしてもらうなら 「湖が見える場"
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "【吉本新喜劇ご招待】株式会社スカイ創業25周年記念！marl会員・成婚者の皆さまをご招待♡",
+      "url": "https://bridal-marl.com/new/%e3%80%90%e5%90%89%e6%9c%ac%e6%96%b0%e5%96%9c%e5%8a%87%e3%81%94%e6%8b%9b%e5%be%85%e3%80%91%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b9%e3%82%ab%e3%82%a4%e5%89%b5%e6%a5%ad25%e5%91%a8%e5%b9%b4%e8%a8%98/",
+      "publishedAt": "2026-09-03T05:59:43+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7208963.jpg",
+      "excerpt": "marlの親会社である株式会社スカイが、創業25周年を迎えます&#x2728; その記念として、2026年11月9日（月）に、なんばグランド花月にて「よしもと新喜劇」の1公演を貸切開催することとなりました&#x1f3ad"
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "marl30代卒業生から届いた、素敵なウェディングフォト♡｜幸せのカタチは人それぞれ",
+      "url": "https://bridal-marl.com/blog/marl%e5%8d%92%e6%a5%ad%e7%94%9f%e3%81%8b%e3%82%89%e5%b1%8a%e3%81%84%e3%81%9f%e3%80%81%e7%b4%a0%e6%95%b5%e3%81%aa%e3%82%a6%e3%82%a7%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%95%e3%82%a9%e3%83%88/",
+      "publishedAt": "2026-09-03T04:56:49+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7200801_0.jpg",
+      "excerpt": "先日、marlの卒業生4名から、とっても素敵なウェディングフォトが届きました&#x1f490;&#x2728; それぞれのお二人らしさが詰まった素敵なお写真に、私も嬉しくてほっこり♡ 「こんな写真を残したい♡」を叶えてく"
     },
     {
       "agencyId": "etoile",
