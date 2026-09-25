@@ -1,4 +1,9 @@
-# -*- coding: utf-8 -*-
+
+    # ミチ婚（十川悦子・大阪心斎橋）＝2026-09-25に掲載6社目として追加。
+    # サイト直下の /feed/ は記事0件（ブログが独自の投稿タイプ）。ブログ用の /blog/feed/ を使う（9/25 CO確認＝10件）。
+    {"agencyId": "michikon", "name": "心斎橋の結婚相談所ミチ婚", "kind": "rss",
+     "url": "https://michikon.jp/blog/feed/",
+     "imageHost": "michikon.jp", "media": "ブログ"},# -*- coding: utf-8 -*-
 """
 婚活クリニックLP「相談所の発信」枠のデータ取得スクリプト（1日1回実行）。
 
@@ -48,6 +53,11 @@ SOURCES = [
     {"agencyId": "etoile", "name": "エトワールマリッジナオ", "kind": "rss",
      "url": "https://rssblog.ameba.jp/eri12yuka6/rss20.xml",
      "imageHost": "ameba.jp", "media": "ブログ"},
+    # ミチ婚（十川悦子・大阪心斎橋）＝2026-09-25に掲載6社目として追加。
+    # サイト直下の /feed/ は記事0件（ブログが独自の投稿タイプ）。ブログ用の /blog/feed/ を使う（9/25 CO確認＝10件）。
+    {"agencyId": "michikon", "name": "心斎橋の結婚相談所ミチ婚", "kind": "rss",
+     "url": "https://michikon.jp/blog/feed/",
+     "imageHost": "michikon.jp", "media": "ブログ"},
 ]
 
 DROP_PARAMS = ("utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid")
