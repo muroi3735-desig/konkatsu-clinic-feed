@@ -11,7 +11,7 @@
 取得できないとき（相手サイトの障害・仕様変更）は、前回のJSONをそのまま残します。
 空のJSONで上書きしないこと（LPの枠が消えるため）。
 """
-import argparse, json, re, sys, time
+import argparse, html, json, re, sys, time
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from urllib.request import urlopen, Request
@@ -87,8 +87,8 @@ def https(u):
 def strip_tags(h):
     h = re.sub(r"(?is)<(script|style).*?</\1>", " ", h or "")
     h = re.sub(r"(?s)<[^>]+>", " ", h)
-    h = (h.replace("&nbsp;", " ").replace("&amp;", "&").replace("&lt;", "<")
-          .replace("&gt;", ">").replace("&#8230;", "…").replace("&quot;", '"'))
+    # 2026-09-25: 数値文字参照（&#160; &#x1f389; など）が冒頭文に残っていたため html.unescape で一括変換する。
+    h = html.unescape(h).replace("\u00a0", " ")
     return re.sub(r"\s+", " ", h).strip()
 
 
