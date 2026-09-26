@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-25T23:54:46.955168+00:00",
+  "generatedAt": "2026-09-26T23:28:25.713292+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "婚活とスキンシップ！仲人が聞いた失敗実話5選",
+      "url": "https://www.youtube.com/watch?v=esSNq8_xKDc",
+      "publishedAt": "2026-09-26T11:27:51+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/esSNq8_xKDc/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "結婚相談所のカウンセラーが教える「34歳・年収450万円」からの婚活攻略法",
+      "url": "https://www.youtube.com/watch?v=Iz_E4fvisjw",
+      "publishedAt": "2026-09-26T10:00:23+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Iz_E4fvisjw/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "michikon",
       "agencyName": "心斎橋の結婚相談所ミチ婚",
@@ -131,16 +151,6 @@
       "publishedAt": "2026-09-13T02:14:08+00:00",
       "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/004.png",
       "excerpt": "こんにちは エトワールマリッジナオです 今日は先日無料相談から 入会を決めてくださった方の プロフィール写真撮影に同行します 30代後半とは思えない可愛らしい 笑顔の素敵な女性なので 今日の写真撮影はとても楽しみです✨ "
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "婚活のモチベーションが戻らない人へ。成婚者が実践した婚活疲れ解消技術",
-      "url": "https://www.youtube.com/watch?v=gDVe2hQ69E4",
-      "publishedAt": "2026-09-12T10:00:36+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/gDVe2hQ69E4/hqdefault.jpg",
-      "excerpt": ""
     },
     {
       "agencyId": "etoile",
