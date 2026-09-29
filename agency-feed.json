@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-27T23:44:25.409766+00:00",
+  "generatedAt": "2026-09-29T00:54:50.304558+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "酒蔵見学から思いがけず嬉しい出会いが",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12979969490.html",
+      "publishedAt": "2026-09-27T14:33:02+00:00",
+      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/018.png",
+      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 今日は酒蔵見学と婚活ランチ会を 開催する予定でしたが、 残念ながら予定人数が集まらず、 中止となりました ですが、うれしいことに参加予定だった 男性お一人と婚活無料相談を す"
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -221,16 +231,6 @@
       "publishedAt": "2026-08-21T08:45:58+00:00",
       "thumbnail": "https://michikon.jp/wp-content/uploads/2026/08/24b206fa6cd78c9b3827bc224fda1fcc.png",
       "excerpt": "IBJ会員数11万人突破！7月のお見合い成立数は97,066件｜年内の成婚もまだ間に合います 今回はIBJから発表された2026年7月末時点の最新データをご紹介します。 IBJの会員数は11万人を突破！ 2026年7月末"
-    },
-    {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【障がいがあっても結婚したい】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12975730393.html",
-      "publishedAt": "2026-08-14T05:07:49+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/005.png",
-      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 「障がいがあっても結婚できるかな？」 これは実際に当相談所に寄せられた お客様からの言葉です 「障がいがあるから、恋愛や結婚は諦め なきゃならないのかな・・・」 そんなふうに"
     },
     {
       "agencyId": "happiness",
