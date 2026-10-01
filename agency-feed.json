@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-30T00:15:51.229191+00:00",
+  "generatedAt": "2026-10-01T00:26:53.377944+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "秋の婚活はこれで決まり！年末までにやるべきこと5選",
+      "url": "https://www.youtube.com/watch?v=8jBbvzFhFlI",
+      "publishedAt": "2026-09-30T11:28:11+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/8jBbvzFhFlI/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【保存版】36歳・年収700万円の女性が婚活で「勝つ」ための思考法",
+      "url": "https://www.youtube.com/watch?v=L7fYTx_hwv0",
+      "publishedAt": "2026-09-30T10:00:01+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/L7fYTx_hwv0/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "32歳女性、婚活1年。最後に選んだのは『理想の条件』とは違う人でした",
+      "url": "https://bridal-marl.com/new/32%e6%ad%b3%e5%a5%b3%e6%80%a7%e3%80%81%e5%a9%9a%e6%b4%bb1%e5%b9%b4%e3%80%82%e6%9c%80%e5%be%8c%e3%81%ab%e9%81%b8%e3%82%93%e3%81%a0%e3%81%ae%e3%81%af%e3%80%8e%e7%90%86%e6%83%b3%e3%81%ae%e6%9d%a1/",
+      "publishedAt": "2026-09-30T04:28:34+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__8216610.jpg",
+      "excerpt": "ご成婚・ご入籍おめでとうございます🥂 「理想の条件」以上に大切だった、一緒にいて感じる安心感 「9月23日に入籍しました♡苗字も変わりましたぁ〜！」 そう言って、ニコニコの笑顔で報告に来てくれました。 ご … \"32歳女"
+    },
     {
       "agencyId": "etoile",
       "agencyName": "エトワールマリッジナオ",
@@ -103,16 +133,6 @@
       "excerpt": "30代前半女性・活動5ヶ月で素敵なご縁に出会われました。ご成婚おめでとうございます！！ 「30代後半になった時に、あの時行動していればよかったと後悔したくなかった」 そんな思いから婚活をスタートされた彼女。 そして活動を"
     },
     {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "「結婚したい人」が過去最低…それでも今、婚活を始めるべき理由",
-      "url": "https://www.youtube.com/watch?v=PExZwNtOMy4",
-      "publishedAt": "2026-09-17T16:07:31+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/PExZwNtOMy4/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
       "media": "ブログ",
@@ -191,16 +211,6 @@
       "publishedAt": "2026-09-03T05:59:43+00:00",
       "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7208963.jpg",
       "excerpt": "marlの親会社である株式会社スカイが、創業25周年を迎えます✨ その記念として、2026年11月9日（月）に、なんばグランド花月にて「よしもと新喜劇」の1公演を貸切開催することとなりました🎭 … \"【吉本新喜劇ご招待】"
-    },
-    {
-      "agencyId": "marl",
-      "agencyName": "結婚相談所marl（マール）",
-      "media": "ブログ",
-      "title": "marl30代卒業生から届いた、素敵なウェディングフォト♡｜幸せのカタチは人それぞれ",
-      "url": "https://bridal-marl.com/blog/marl%e5%8d%92%e6%a5%ad%e7%94%9f%e3%81%8b%e3%82%89%e5%b1%8a%e3%81%84%e3%81%9f%e3%80%81%e7%b4%a0%e6%95%b5%e3%81%aa%e3%82%a6%e3%82%a7%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%95%e3%82%a9%e3%83%88/",
-      "publishedAt": "2026-09-03T04:56:49+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7200801_0.jpg",
-      "excerpt": "先日、marlの卒業生4名から、とっても素敵なウェディングフォトが届きました💐✨ それぞれのお二人らしさが詰まった素敵なお写真に、私も嬉しくてほっこり♡ 「こんな写真を残したい♡」を叶えてく … \"marl30代卒業生か"
     },
     {
       "agencyId": "etoile",
