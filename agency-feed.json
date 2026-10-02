@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-10-01T00:26:53.377944+00:00",
+  "generatedAt": "2026-10-02T00:38:02.171966+00:00",
   "errors": [],
   "items": [
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
       "media": "YouTube",
+      "title": "真剣交際に進める人と進めない人の思考の違い",
+      "url": "https://www.youtube.com/watch?v=iVyWrfJy3G8",
+      "publishedAt": "2026-10-01T16:09:20+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/iVyWrfJy3G8/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
       "title": "秋の婚活はこれで決まり！年末までにやるべきこと5選",
       "url": "https://www.youtube.com/watch?v=8jBbvzFhFlI",
-      "publishedAt": "2026-09-30T11:28:11+00:00",
+      "publishedAt": "2026-10-01T01:53:16+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/8jBbvzFhFlI/hqdefault.jpg",
       "excerpt": ""
     },
@@ -101,16 +111,6 @@
       "publishedAt": "2026-09-19T11:43:35+00:00",
       "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/473.png",
       "excerpt": "こんにちは神戸の結婚相談所 エトワールマリッジナオです 大阪梅田にあるセルフィットさんに行ってきました まずはどんな雰囲気にしたいか（可愛い、綺麗、清楚など）や、髪のセット（巻く・巻かない）を相談してからメイクへスタート"
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "交際中に見抜ける！結婚すると苦労するモラハラ男性の特徴5選",
-      "url": "https://www.youtube.com/watch?v=vSny_sNLOiU",
-      "publishedAt": "2026-09-19T10:00:11+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/vSny_sNLOiU/hqdefault.jpg",
-      "excerpt": ""
     },
     {
       "agencyId": "marl",
