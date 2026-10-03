@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-03T00:20:16.416936+00:00",
+  "generatedAt": "2026-10-03T23:42:11.819664+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "結婚に適していない男性の行動パターン",
+      "url": "https://www.youtube.com/watch?v=sf0hN3Kp8xQ",
+      "publishedAt": "2026-10-03T12:45:23+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/sf0hN3Kp8xQ/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "【プロポーズ成功💍】29歳男性、活動10ヶ月。26歳の彼女とつかんだご成婚♡",
+      "url": "https://bridal-marl.com/new/%e3%80%90%e3%83%97%e3%83%ad%e3%83%9d%e3%83%bc%e3%82%ba%e6%88%90%e5%8a%9f%f0%9f%92%8d%e3%80%9129%e6%ad%b3%e7%94%b7%e6%80%a7%e3%80%81%e6%b4%bb%e5%8b%9510%e3%83%b6%e6%9c%88%e3%80%8226%e6%ad%b3%e3%81%ae/",
+      "publishedAt": "2026-10-03T08:34:12+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/04/image2-1.jpg",
+      "excerpt": "💐29歳男性、活動10ヶ月でご成婚♡ 嬉しいご報告です！ 29歳の男性会員さまが、 活動10ヶ月でご成婚となりました✨ そして昨日、 お相手の26歳女性へプロポーズ💍 無事に … \"【プロポーズ成功💍】29歳男性、活動1"
+    },
+    {
+      "agencyId": "michikon",
+      "agencyName": "心斎橋の結婚相談所ミチ婚",
+      "media": "ブログ",
+      "title": "女性応援プロジェクトで優秀相談所に選出！ミチ婚の3ヶ月間の取り組みをご紹介🌷",
+      "url": "https://michikon.jp/blog/%e5%a5%b3%e6%80%a7%e5%bf%9c%e6%8f%b4%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%81%a7%e5%84%aa%e7%a7%80%e7%9b%b8%e8%ab%87%e6%89%80%e3%81%ab%e9%81%b8%e5%87%ba%ef%bc%81%e3%83%9f%e3%83%81/",
+      "publishedAt": "2026-10-03T03:33:40+00:00",
+      "thumbnail": "https://michikon.jp/wp-content/uploads/2026/10/f65b13800c0235f538cc9d39976bad68.png",
+      "excerpt": "女性応援プロジェクトで優秀相談所に選出！ミチ婚の3ヶ月間の取り組み🌷 大阪・難波・心斎橋の結婚相談所「ミチ婚」の十川です😊 この度、ミチ婚はIBJの「女性応援プロジェクト」で優秀相談所に選 […] 投稿 女性応援プロジェ"
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -203,16 +233,6 @@
       "excerpt": "「湖の見える場所で」叶った、ふたりの特別な一日 ご成婚されたおふたりから、素敵なお写真が届きました♡ ご成婚後、ふたりで訪れたのは、自然に囲まれた湖の見えるロッジ。 実は彼女には、プロポーズしてもらうなら 「湖が見える場"
     },
     {
-      "agencyId": "marl",
-      "agencyName": "結婚相談所marl（マール）",
-      "media": "ブログ",
-      "title": "【吉本新喜劇ご招待】株式会社スカイ創業25周年記念！marl会員・成婚者の皆さまをご招待♡",
-      "url": "https://bridal-marl.com/new/%e3%80%90%e5%90%89%e6%9c%ac%e6%96%b0%e5%96%9c%e5%8a%87%e3%81%94%e6%8b%9b%e5%be%85%e3%80%91%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b9%e3%82%ab%e3%82%a4%e5%89%b5%e6%a5%ad25%e5%91%a8%e5%b9%b4%e8%a8%98/",
-      "publishedAt": "2026-09-03T05:59:43+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7208963.jpg",
-      "excerpt": "marlの親会社である株式会社スカイが、創業25周年を迎えます✨ その記念として、2026年11月9日（月）に、なんばグランド花月にて「よしもと新喜劇」の1公演を貸切開催することとなりました🎭 … \"【吉本新喜劇ご招待】"
-    },
-    {
       "agencyId": "etoile",
       "agencyName": "エトワールマリッジナオ",
       "media": "ブログ",
@@ -341,16 +361,6 @@
       "publishedAt": "2026-06-26T08:33:33+00:00",
       "thumbnail": "https://michikon.jp/wp-content/uploads/2026/06/b66b3843f441b1ba8f17df72fbe2e967.jpg",
       "excerpt": "こんにちは。ミチ婚です。 先日、物づくり婚活イベントを開催しました！ 今回のテーマは、 「おしゃれな空間で過ごしながら、自然な出会いを楽しむこと」 会場は、デザイナー・アーサさんの素敵なアトリエをお借りしました。温かみの"
-    },
-    {
-      "agencyId": "michikon",
-      "agencyName": "心斎橋の結婚相談所ミチ婚",
-      "media": "ブログ",
-      "title": "【IBJ最新データ更新】登録会員数10万人突破！2025年8月の婚活事情とは？",
-      "url": "https://michikon.jp/blog/data-2/",
-      "publishedAt": "2025-09-01T11:19:12+00:00",
-      "thumbnail": "https://michikon.jp/wp-content/uploads/2025/09/Red-and-White-Illustrated-Smoking-Day-Social-Media-Graphic-1.jpg",
-      "excerpt": "こんにちは、ミチ婚です🌸さて、IBJの最新データ（2025年8月末時点）が公開されました。それでは早速、気になる数字をご紹介します。 📊 IBJ最新データ（2025年8月末時点） 登録会員 […] 投稿 【IBJ最新デー"
     }
   ]
 }
