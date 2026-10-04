@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-03T23:42:11.819664+00:00",
+  "generatedAt": "2026-10-04T23:54:14.881824+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "結婚相談所に入っても結婚できない人、実はこんな人です",
+      "url": "https://www.youtube.com/watch?v=7KUuJY1ulqI",
+      "publishedAt": "2026-10-04T11:56:24+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7KUuJY1ulqI/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -90,16 +100,6 @@
       "url": "https://www.youtube.com/watch?v=esSNq8_xKDc",
       "publishedAt": "2026-09-27T00:55:37+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/esSNq8_xKDc/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "結婚相談所のカウンセラーが教える「34歳・年収450万円」からの婚活攻略法",
-      "url": "https://www.youtube.com/watch?v=Iz_E4fvisjw",
-      "publishedAt": "2026-09-26T10:00:23+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/Iz_E4fvisjw/hqdefault.jpg",
       "excerpt": ""
     },
     {
