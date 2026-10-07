@@ -1,11 +1,6 @@
 {
-  "generatedAt": "2026-10-06T01:43:14.691823+00:00",
-  "errors": [
-    {
-      "agencyId": "gon",
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
+  "generatedAt": "2026-10-07T00:31:41.242936+00:00",
+  "errors": [],
   "items": [
     {
       "agencyId": "gon",
@@ -13,7 +8,7 @@
       "media": "YouTube",
       "title": "結婚相談所に入っても結婚できない人、実はこんな人です",
       "url": "https://www.youtube.com/watch?v=7KUuJY1ulqI",
-      "publishedAt": "2026-10-04T11:56:24+00:00",
+      "publishedAt": "2026-10-05T01:41:28+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/7KUuJY1ulqI/hqdefault.jpg",
       "excerpt": ""
     },
@@ -96,16 +91,6 @@
       "publishedAt": "2026-09-27T14:33:02+00:00",
       "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/018.png",
       "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 今日は酒蔵見学と婚活ランチ会を 開催する予定でしたが、 残念ながら予定人数が集まらず、 中止となりました ですが、うれしいことに参加予定だった 男性お一人と婚活無料相談を す"
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "婚活とスキンシップ！仲人が聞いた失敗実話5選",
-      "url": "https://www.youtube.com/watch?v=esSNq8_xKDc",
-      "publishedAt": "2026-09-27T00:55:37+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/esSNq8_xKDc/hqdefault.jpg",
-      "excerpt": ""
     },
     {
       "agencyId": "michikon",
