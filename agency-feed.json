@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-07T00:31:41.242936+00:00",
+  "generatedAt": "2026-10-08T00:53:19.650612+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "年収だけ見て結婚すると危ない？本当に確認すべきお金の話",
+      "url": "https://www.youtube.com/watch?v=3YaoysCkkD8",
+      "publishedAt": "2026-10-07T12:17:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3YaoysCkkD8/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【運命の決断】プロポーズはサプライズ？事前確認？結局どっちが正解？",
+      "url": "https://www.youtube.com/watch?v=g_qwQaqXCAI",
+      "publishedAt": "2026-10-07T10:00:28+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/g_qwQaqXCAI/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -60,16 +80,6 @@
       "url": "https://www.youtube.com/watch?v=8jBbvzFhFlI",
       "publishedAt": "2026-10-01T01:53:16+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/8jBbvzFhFlI/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【保存版】36歳・年収700万円の女性が婚活で「勝つ」ための思考法",
-      "url": "https://www.youtube.com/watch?v=L7fYTx_hwv0",
-      "publishedAt": "2026-09-30T10:00:01+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/L7fYTx_hwv0/hqdefault.jpg",
       "excerpt": ""
     },
     {
