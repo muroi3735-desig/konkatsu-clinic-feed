@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-10-10T00:39:30.430964+00:00",
-  "errors": [],
+  "generatedAt": "2026-10-11T00:11:06.258529+00:00",
+  "errors": [
+    {
+      "agencyId": "gon",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
   "items": [
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "婚活イベント",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12981189001.html",
+      "publishedAt": "2026-10-10T11:00:06+00:00",
+      "thumbnail": "https://stat.ameba.jp/user_images/20261010/16/eri12yuka6/ed/87/j/o1024102415830245501.jpg",
+      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 【イベントのお知らせ】 10月24日（日）開催イベントの追加募集です！ おかげさまでご好評につき、 募集は【女性あと1名様】となりました♪ 参加者の方はみなさん初対面の方ばか"
+    },
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "お見合い同行",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12981186169.html",
+      "publishedAt": "2026-10-10T07:22:23+00:00",
+      "thumbnail": "https://stat.ameba.jp/user_images/20261010/16/eri12yuka6/6d/fc/j/o1024102415830234356.jpg",
+      "excerpt": "グランヴィア大阪で、仲良しのカウンセラーさんと一緒に、お見合い同行に行ってきました♪ 実は、私にとって初めてのお見合い同行✨ 最初は少しドキドキしていましたが、和やかに会話も弾み、お二人には共通の趣味もあることがわかって"
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -213,16 +238,6 @@
       "excerpt": "こんにちは エトワールマリッジナオです 今日は先日無料相談から 入会を決めてくださった方の プロフィール写真撮影に同行します 30代後半とは思えない可愛らしい 笑顔の素敵な女性なので 今日の写真撮影はとても楽しみです✨ "
     },
     {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【繋がったご縁】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12977854646.html",
-      "publishedAt": "2026-09-05T10:27:32+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/005.png",
-      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 前回のプロフィール交換会で 「ご縁がつながったら嬉しい」と投稿してから 少しお時間が空きましたが… なんと本当にご縁がつながり、来週お見合いが決定しました💖 IBJ結婚相談所"
-    },
-    {
       "agencyId": "blue-star",
       "agencyName": "婚活サポート ブルースター",
       "media": "ブログ",
@@ -231,16 +246,6 @@
       "publishedAt": "2026-09-04T23:34:11+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/09/婚活クリニックブログ-300x188.jpg",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所 ブルースター 代表の山本です。 掲載された婚活クリニッ […]"
-    },
-    {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【プロフィール交換会】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12976699986.html",
-      "publishedAt": "2026-08-24T13:11:22+00:00",
-      "thumbnail": "https://stat.ameba.jp/user_images/20260824/22/eri12yuka6/86/64/j/o1024102415815487292.jpg?cax=1280-720",
-      "excerpt": "今日は三宮で「プロフィール交換会」でした✨ 連盟の枠を超えて、プロフィールを持ち寄り、 「うちの会員さんはこんな素敵な方なんです！」と、一生懸命にお話しされる仲人の皆さん。 一人ひとりの魅力をしっかり伝えながら、良いご縁"
     },
     {
       "agencyId": "michikon",
