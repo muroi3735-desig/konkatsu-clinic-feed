@@ -1,27 +1,52 @@
 {
-  "generatedAt": "2026-10-11T00:11:06.258529+00:00",
-  "errors": [
+  "generatedAt": "2026-10-12T00:23:19.935058+00:00",
+  "errors": [],
+  "items": [
     {
       "agencyId": "gon",
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
-  "items": [
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【婚活初心者必見】お見合いで女性に即お断りされる男のNG行動10選！",
+      "url": "https://www.youtube.com/watch?v=b-SJCjH-rA8",
+      "publishedAt": "2026-10-11T23:58:16+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/b-SJCjH-rA8/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "etoile",
       "agencyName": "エトワールマリッジナオ",
       "media": "ブログ",
-      "title": "婚活イベント",
+      "title": "【30代会員さんとCHANELへ】",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12981192618.html",
+      "publishedAt": "2026-10-11T10:00:11+00:00",
+      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/004.png",
+      "excerpt": "こんにちは、 神戸の結婚相談所エトワールマリッジナオです💍 先日ご入会された会員さんと一緒に 入会特典のシャネルの口紅を買いに 行ってきました💄 毎日使うものだからこそ、本人の好みや お気に入りの色がありますもんね お店"
+    },
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "【婚活イベント】",
       "url": "https://ameblo.jp/eri12yuka6/entry-12981189001.html",
       "publishedAt": "2026-10-10T11:00:06+00:00",
       "thumbnail": "https://stat.ameba.jp/user_images/20261010/16/eri12yuka6/ed/87/j/o1024102415830245501.jpg",
       "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 【イベントのお知らせ】 10月24日（日）開催イベントの追加募集です！ おかげさまでご好評につき、 募集は【女性あと1名様】となりました♪ 参加者の方はみなさん初対面の方ばか"
     },
     {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "婚活のプロが教える「美人なのに独身」から抜け出す方法",
+      "url": "https://www.youtube.com/watch?v=WTc_qTLNihM",
+      "publishedAt": "2026-10-10T10:00:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/WTc_qTLNihM/hqdefault.jpg",
+      "excerpt": ""
+    },
+    {
       "agencyId": "etoile",
       "agencyName": "エトワールマリッジナオ",
       "media": "ブログ",
-      "title": "お見合い同行",
+      "title": "【お見合い同行】",
       "url": "https://ameblo.jp/eri12yuka6/entry-12981186169.html",
       "publishedAt": "2026-10-10T07:22:23+00:00",
       "thumbnail": "https://stat.ameba.jp/user_images/20261010/16/eri12yuka6/6d/fc/j/o1024102415830234356.jpg",
@@ -96,26 +121,6 @@
       "publishedAt": "2026-10-03T03:33:40+00:00",
       "thumbnail": "https://michikon.jp/wp-content/uploads/2026/10/f65b13800c0235f538cc9d39976bad68.png",
       "excerpt": "女性応援プロジェクトで優秀相談所に選出！ミチ婚の3ヶ月間の取り組み🌷 大阪・難波・心斎橋の結婚相談所「ミチ婚」の十川です😊 この度、ミチ婚はIBJの「女性応援プロジェクト」で優秀相談所に選 […] 投稿 女性応援プロジェ"
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "真剣交際に進める人と進めない人の思考の違い",
-      "url": "https://www.youtube.com/watch?v=iVyWrfJy3G8",
-      "publishedAt": "2026-10-01T16:09:20+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/iVyWrfJy3G8/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "秋の婚活はこれで決まり！年末までにやるべきこと5選",
-      "url": "https://www.youtube.com/watch?v=8jBbvzFhFlI",
-      "publishedAt": "2026-10-01T01:53:16+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/8jBbvzFhFlI/hqdefault.jpg",
-      "excerpt": ""
     },
     {
       "agencyId": "marl",
@@ -226,16 +231,6 @@
       "publishedAt": "2026-09-14T00:17:48+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/09/きめＹ-300x188.jpg",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所ブルースター カウンセラーの山本です。 年の差婚の決め手 […]"
-    },
-    {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【プロフィール写真撮影同行】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12978579298.html",
-      "publishedAt": "2026-09-13T02:14:08+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/004.png",
-      "excerpt": "こんにちは エトワールマリッジナオです 今日は先日無料相談から 入会を決めてくださった方の プロフィール写真撮影に同行します 30代後半とは思えない可愛らしい 笑顔の素敵な女性なので 今日の写真撮影はとても楽しみです✨ "
     },
     {
       "agencyId": "blue-star",
