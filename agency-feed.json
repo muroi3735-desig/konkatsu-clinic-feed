@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:14:06.811619+00:00",
+  "generatedAt": "2026-10-14T23:49:21.625998+00:00",
   "errors": [
     {
       "agencyId": "gon",
@@ -7,6 +7,16 @@
     }
   ],
   "items": [
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "【AIにおすすめされた⁉️】",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12981532657.html",
+      "publishedAt": "2026-10-14T00:45:56+00:00",
+      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/006.png",
+      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです。 40代女性の無料相談に行ってきました。 とても笑顔の素敵な女性でした💓 以前IBJに入会していて その時は体調が悪くて、1年ほど活動 したところで退会されたそうです 最近体"
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -176,16 +186,6 @@
       "publishedAt": "2026-09-21T05:56:00+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/09/新人-300x188.jpg",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所ブルースター カウンセラーの山本です。 ブルースターに新 […]"
-    },
-    {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【プロフィール写真撮影】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12979192010.html",
-      "publishedAt": "2026-09-19T11:43:35+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/473.png",
-      "excerpt": "こんにちは神戸の結婚相談所 エトワールマリッジナオです 大阪梅田にあるセルフィットさんに行ってきました まずはどんな雰囲気にしたいか（可愛い、綺麗、清楚など）や、髪のセット（巻く・巻かない）を相談してからメイクへスタート"
     },
     {
       "agencyId": "marl",
