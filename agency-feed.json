@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-16T23:23:47.935683+00:00",
+  "generatedAt": "2026-10-17T22:59:01.148248+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "盛った写真 vs 素のままの写真、どっちが結婚できる？",
+      "url": "https://www.youtube.com/watch?v=DyqoFa7pEU8",
+      "publishedAt": "2026-10-17T13:03:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DyqoFa7pEU8/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -123,23 +133,13 @@
       "excerpt": ""
     },
     {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【運命の決断】プロポーズはサプライズ？事前確認？結局どっちが正解？",
-      "url": "https://www.youtube.com/watch?v=g_qwQaqXCAI",
-      "publishedAt": "2026-10-07T10:00:28+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/g_qwQaqXCAI/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
       "media": "ブログ",
       "title": "【プロポーズ成功💍】29歳男性、活動10ヶ月。26歳の彼女とつかんだご成婚♡",
       "url": "https://bridal-marl.com/new/%e3%80%90%e3%83%97%e3%83%ad%e3%83%9d%e3%83%bc%e3%82%ba%e6%88%90%e5%8a%9f%f0%9f%92%8d%e3%80%9129%e6%ad%b3%e7%94%b7%e6%80%a7%e3%80%81%e6%b4%bb%e5%8b%9510%e3%83%b6%e6%9c%88%e3%80%8226%e6%ad%b3%e3%81%ae/",
       "publishedAt": "2026-10-03T08:34:12+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/20261015-2.jpg",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/S__8806469.jpg",
       "excerpt": "💐29歳男性、活動10ヶ月でご成婚♡ 嬉しいご報告です！ 29歳の男性会員さまが、 活動10ヶ月でご成婚となりました✨ そして昨日、 お相手の26歳女性へプロポーズ💍 無事に … \"【プロポーズ成功💍】29歳男性、活動1"
     },
     {
