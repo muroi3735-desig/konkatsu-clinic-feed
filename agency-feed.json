@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-20T00:11:58.178192+00:00",
+  "generatedAt": "2026-10-20T23:43:51.412010+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "「いつか結婚したい」でも、相談に行く勇気がなかった。30歳男性の婚活ストーリー",
+      "url": "https://bridal-marl.com/new/%e3%80%8c%e3%81%84%e3%81%a4%e3%81%8b%e7%b5%90%e5%a9%9a%e3%81%97%e3%81%9f%e3%81%84%e3%80%8d%e3%81%a7%e3%82%82%e3%80%81%e7%9b%b8%e8%ab%87%e3%81%ab%e8%a1%8c%e3%81%8f%e5%8b%87%e6%b0%97%e3%81%8c%e3%81%aa/",
+      "publishedAt": "2026-10-20T11:34:12+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/20261020-3.jpg",
+      "excerpt": "【お客様の声】30歳男性が婚活をスタート！「いつか結婚したい」から一歩踏み出すまで こんにちは。 結婚相談所marl（マール）です🌸 今回は、30歳の男性会員様に、ご入会時のアンケートにご協力いただきまし … \"「いつか"
+    },
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "【これからの人生、誰とすごしたいですか？】",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12982062600.html",
+      "publishedAt": "2026-10-19T12:17:39+00:00",
+      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/008.png",
+      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 先日50代、60代向けのイベントにお誘いした時に、女性の方から 結婚は今更しなくてもいいけど、 これからの人生を一緒に楽しめる人がいたらいいな〜 この間 子どもに話しかけたら"
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -19,7 +39,7 @@
       "title": "35歳を過ぎたら婚活は厳しい？30代後半女性が結婚相談所marlへの入会を決めた理由",
       "url": "https://bridal-marl.com/new/5877/",
       "publishedAt": "2026-10-16T12:45:07+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/S__8740868.jpg",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/20261020-1.jpg",
       "excerpt": "30代後半女性の婚活体験談｜「35歳を過ぎたら厳しい」と不安だった私が、入会2カ月で真剣交際へ♡ 「もう35歳を過ぎたし、今から婚活を始めても遅いのかな……」 そんな不安を抱えていませんか？ YouTubeやSNSで「3"
     },
     {
@@ -173,16 +193,6 @@
       "excerpt": "結婚相談所って何をしてくれるの？婚活をサポートする仕組みを解説 「結婚相談所って、具体的に何をしてくれるの？」 婚活を始めようと思ったとき、気になる方も多いのではないでしょうか。 「出会いを紹介してくれる場所」というイメ"
     },
     {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "【無料相談で嬉しかったこと】",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12979482517.html",
-      "publishedAt": "2026-09-22T12:24:40+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/005.png",
-      "excerpt": "神戸の結婚相談所「エトワールマリッジナオ」です 先日の無料相談で嬉しかった事をご紹介します ホームページからお問い合わせくださった、30代後半の女性とお会いしました （先にプロフィール写真取りに行った記事が上がってますね"
-    },
-    {
       "agencyId": "blue-star",
       "agencyName": "婚活サポート ブルースター",
       "media": "ブログ",
@@ -191,16 +201,6 @@
       "publishedAt": "2026-09-21T05:56:00+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/09/新人-300x188.jpg",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所ブルースター カウンセラーの山本です。 ブルースターに新 […]"
-    },
-    {
-      "agencyId": "marl",
-      "agencyName": "結婚相談所marl（マール）",
-      "media": "ブログ",
-      "title": "マッチングアプリから結婚相談所へ。30代後半女性が婚活1年でつかんだ幸せ",
-      "url": "https://bridal-marl.com/new/%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%97%e3%83%aa%e3%81%8b%e3%82%89%e7%b5%90%e5%a9%9a%e7%9b%b8%e8%ab%87%e6%89%80%e3%81%b8%e3%80%8230%e4%bb%a3%e5%be%8c%e5%8d%8a%e5%a5%b3%e6%80%a7/",
-      "publishedAt": "2026-09-19T07:46:35+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/09/S__7684294_0.jpg",
-      "excerpt": "「こんな日が迎えられるなんて」30代後半女性、婚活1年でご成婚 先日、成婚退会された卒業生とお祝い会をしました。 婚活中の思い出や成婚までの道のり、そして入籍後の新生活まで。 たくさんお話をする中で、 「こんな日が迎えら"
     },
     {
       "agencyId": "blue-star",
