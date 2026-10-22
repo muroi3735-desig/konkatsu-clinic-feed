@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-21T23:58:04.665651+00:00",
+  "generatedAt": "2026-10-22T23:56:47.675241+00:00",
   "errors": [
-    {
-      "agencyId": "blue-star",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "agencyId": "marl",
-      "error": "HTTP Error 403: Forbidden"
-    },
     {
       "agencyId": "gon",
       "error": "HTTP Error 404: Not Found"
