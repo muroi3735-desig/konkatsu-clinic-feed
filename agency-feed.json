@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-24T23:02:34.185444+00:00",
+  "generatedAt": "2026-10-25T23:07:21.829154+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【32歳婚活女性の悩み】めちゃくちゃタイプなのに2週間に1回しか会えない！この男性を待つべき？",
+      "url": "https://www.youtube.com/watch?v=gNMDm_P3iOo",
+      "publishedAt": "2026-10-25T10:00:03+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/gNMDm_P3iOo/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -101,16 +111,6 @@
       "publishedAt": "2026-10-14T00:45:56+00:00",
       "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/006.png",
       "excerpt": "神戸の結婚相談所 エトワールマリッジナオです。 40代女性の無料相談に行ってきました。 とても笑顔の素敵な女性でした💓 以前IBJに入会していて その時は体調が悪くて、1年ほど活動 したところで退会されたそうです 最近体"
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【婚活初心者必見】お見合いで女性に即お断りされる男のNG行動10選！",
-      "url": "https://www.youtube.com/watch?v=b-SJCjH-rA8",
-      "publishedAt": "2026-10-11T23:58:16+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/b-SJCjH-rA8/hqdefault.jpg",
-      "excerpt": ""
     },
     {
       "agencyId": "etoile",
