@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T02:51:41.691609+00:00",
+  "generatedAt": "2026-11-04T01:09:38.476070+00:00",
   "errors": [
     {
       "agencyId": "gon",
@@ -7,6 +7,16 @@
     }
   ],
   "items": [
+    {
+      "agencyId": "etoile",
+      "agencyName": "エトワールマリッジナオ",
+      "media": "ブログ",
+      "title": "【50代・60代の婚活にもときめきはある！初めてのマッチング成立に感動♡】",
+      "url": "https://ameblo.jp/eri12yuka6/entry-12983451725.html",
+      "publishedAt": "2026-11-03T00:23:18+00:00",
+      "thumbnail": "https://stat.ameba.jp/user_images/20261103/09/eri12yuka6/78/0d/j/o0967096715837918655.jpg",
+      "excerpt": "神戸の結婚相談所エトワールマリッジナオです 今回は50代.60代を対象にした婚活イベントでした 今回のイベントは婚活だけではなく 私が毎月お世話になっている ヘッドマッサージを開業されている方との コラボ企画です 題して"
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -176,16 +186,6 @@
       "publishedAt": "2026-10-03T03:33:40+00:00",
       "thumbnail": "https://michikon.jp/wp-content/uploads/2026/10/f65b13800c0235f538cc9d39976bad68.png",
       "excerpt": "女性応援プロジェクトで優秀相談所に選出！ミチ婚の3ヶ月間の取り組み🌷 大阪・難波・心斎橋の結婚相談所「ミチ婚」の十川です😊 この度、ミチ婚はIBJの「女性応援プロジェクト」で優秀相談所に選 […] 投稿 女性応援プロジェ"
-    },
-    {
-      "agencyId": "etoile",
-      "agencyName": "エトワールマリッジナオ",
-      "media": "ブログ",
-      "title": "酒蔵見学から思いがけず嬉しい出会いが",
-      "url": "https://ameblo.jp/eri12yuka6/entry-12979969490.html",
-      "publishedAt": "2026-09-27T14:33:02+00:00",
-      "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/018.png",
-      "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 今日は酒蔵見学と婚活ランチ会を 開催する予定でしたが、 残念ながら予定人数が集まらず、 中止となりました ですが、うれしいことに参加予定だった 男性お一人と婚活無料相談を す"
     },
     {
       "agencyId": "michikon",
