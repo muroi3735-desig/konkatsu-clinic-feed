@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-11-13T01:44:35.350354+00:00",
-  "errors": [],
+  "generatedAt": "2026-11-14T01:22:47.049929+00:00",
+  "errors": [
+    {
+      "agencyId": "gon",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
   "items": [
+    {
+      "agencyId": "marl",
+      "agencyName": "結婚相談所marl（マール）",
+      "media": "ブログ",
+      "title": "結婚相談所ってこんなに楽しいの？成婚者と婚活中の会員様が集まった特別な一日！",
+      "url": "https://bridal-marl.com/new/%e7%b5%90%e5%a9%9a%e7%9b%b8%e8%ab%87%e6%89%80%e3%81%a3%e3%81%a6%e3%81%93%e3%82%93%e3%81%aa%e3%81%ab%e6%a5%bd%e3%81%97%e3%81%84%e3%81%ae%ef%bc%9f%e6%88%90%e5%a9%9a%e8%80%85%e3%81%a8%e5%a9%9a%e6%b4%bb/",
+      "publishedAt": "2026-11-13T04:55:16+00:00",
+      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/11/20261112-1.png",
+      "excerpt": "結婚相談所ってこんなに楽しいの？成婚者ファミリーも参加！笑顔あふれるmarl新喜劇＆交流会を開催！ こんにちは！ 結婚相談所marl（マール）です。 11月9日、会員様との交流イベントとして、なんばグランド花月での新喜劇"
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -131,16 +146,6 @@
       "publishedAt": "2026-10-19T12:17:39+00:00",
       "thumbnail": "https://stat100.ameba.jp/blog/ucs/img/char/char3/008.png",
       "excerpt": "神戸の結婚相談所 エトワールマリッジナオです 先日50代、60代向けのイベントにお誘いした時に、女性の方から 結婚は今更しなくてもいいけど、 これからの人生を一緒に楽しめる人がいたらいいな〜 この間 子どもに話しかけたら"
-    },
-    {
-      "agencyId": "marl",
-      "agencyName": "結婚相談所marl（マール）",
-      "media": "ブログ",
-      "title": "35歳を過ぎたら婚活は厳しい？30代後半女性が結婚相談所marlへの入会を決めた理由",
-      "url": "https://bridal-marl.com/new/5877/",
-      "publishedAt": "2026-10-16T12:45:07+00:00",
-      "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/10/20261020-1.jpg",
-      "excerpt": "30代後半女性の婚活体験談｜「35歳を過ぎたら厳しい」と不安だった私が、入会2カ月で真剣交際へ♡ 「もう35歳を過ぎたし、今から婚活を始めても遅いのかな……」 そんな不安を抱えていませんか？ YouTubeやSNSで「3"
     },
     {
       "agencyId": "etoile",
