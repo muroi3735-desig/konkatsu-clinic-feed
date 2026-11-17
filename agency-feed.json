@@ -1,12 +1,27 @@
 {
-  "generatedAt": "2026-11-16T00:54:08.780070+00:00",
-  "errors": [
+  "generatedAt": "2026-11-17T03:36:44.369843+00:00",
+  "errors": [],
+  "items": [
+    {
+      "agencyId": "michikon",
+      "agencyName": "心斎橋の結婚相談所ミチ婚",
+      "media": "ブログ",
+      "title": "迷っていた彼が気づいた、本当に大切な人｜30代男性会員様のプロポーズ成功エピソード♡",
+      "url": "https://michikon.jp/blog/propose/",
+      "publishedAt": "2026-11-16T09:17:28+00:00",
+      "thumbnail": "https://michikon.jp/wp-content/uploads/2026/11/ca914c17fb9d358cf0c1e4b7dfdd4d1c.png",
+      "excerpt": "迷っていた彼が気づいた、本当に大切な人｜30代男性会員様のプロポーズ成功エピソード♡ こんにちは！ 難波・心斎橋の結婚相談所ミチ婚の十川です。 先日、30代男性会員様がプロポーズに成功されました！ 薔薇の花束とダイヤモン"
+    },
     {
       "agencyId": "gon",
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
-  "items": [
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【婚活の現実】こんなお相手に出会ったら交際終了を考えるべき!?",
+      "url": "https://www.youtube.com/watch?v=xXwHX34Fhwo",
+      "publishedAt": "2026-11-16T02:09:59+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xXwHX34Fhwo/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
@@ -16,6 +31,16 @@
       "publishedAt": "2026-11-14T12:42:32+00:00",
       "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/11/S__9961485_0.jpg",
       "excerpt": "「人を好きになるのに時間がかかる」そんな私が、活動6ヶ月でご成婚♡ 20代の頃、マッチングアプリで婚活を経験したものの、人を好きになるまでに時間がかかり、なかなかうまくいかなかったという30代前半の女性。 そんな彼女が、"
+    },
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【仲人の本音】デート報告をしない人ほど婚活が長引く!?",
+      "url": "https://www.youtube.com/watch?v=HHEwrD7wm7w",
+      "publishedAt": "2026-11-14T10:00:26+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/HHEwrD7wm7w/hqdefault.jpg",
+      "excerpt": ""
     },
     {
       "agencyId": "marl",
@@ -75,26 +100,6 @@
       "url": "https://www.youtube.com/watch?v=Zc_1kIFy2eI",
       "publishedAt": "2026-11-08T01:59:15+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/Zc_1kIFy2eI/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【閲覧注意】男の人生を狂わせる！結婚してはいけない女性の特徴5選",
-      "url": "https://www.youtube.com/watch?v=LkMsQYguV6U",
-      "publishedAt": "2026-11-07T10:00:13+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/LkMsQYguV6U/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【30代婚活女性は要注意】同世代男性が「この女とは結婚できない！」と確信する瞬間10選",
-      "url": "https://www.youtube.com/watch?v=uoUVvS_llAg",
-      "publishedAt": "2026-11-05T02:13:16+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/uoUVvS_llAg/hqdefault.jpg",
       "excerpt": ""
     },
     {
@@ -356,16 +361,6 @@
       "publishedAt": "2026-06-27T04:33:45+00:00",
       "thumbnail": "https://www.blue-star.info/wp/wp-content/uploads/2026/06/婚活女子-応援-プロジェクト-240x300.png",
       "excerpt": "こんにちは！ 兵庫神戸御影・元町・大阪梅田の結婚相談所 ブルースター 代表の山本です。 ブルースターでは6月～8月の期間限定で 【婚活女子応援プロジェクト】を実施しています その名の通り。婚活女性を応援するキャンペーン😆"
-    },
-    {
-      "agencyId": "michikon",
-      "agencyName": "心斎橋の結婚相談所ミチ婚",
-      "media": "ブログ",
-      "title": "物づくり婚活イベントを開催しました🎨✨",
-      "url": "https://michikon.jp/blog/%e7%89%a9%e3%81%a5%e3%81%8f%e3%82%8a%e5%a9%9a%e6%b4%bb%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%f0%9f%8e%a8%e2%9c%a8/",
-      "publishedAt": "2026-06-26T08:33:33+00:00",
-      "thumbnail": "https://michikon.jp/wp-content/uploads/2026/06/b66b3843f441b1ba8f17df72fbe2e967.jpg",
-      "excerpt": "こんにちは。ミチ婚です。 先日、物づくり婚活イベントを開催しました！ 今回のテーマは、 「おしゃれな空間で過ごしながら、自然な出会いを楽しむこと」 会場は、デザイナー・アーサさんの素敵なアトリエをお借りしました。温かみの"
     }
   ]
 }
