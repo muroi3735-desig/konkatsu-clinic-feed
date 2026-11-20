@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-19T02:26:15.343667+00:00",
+  "generatedAt": "2026-11-20T02:10:42.454282+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "michikon",
+      "agencyName": "心斎橋の結婚相談所ミチ婚",
+      "media": "ブログ",
+      "title": "プロフィール交換会を開催しました！データだけでは見つからないご縁をつなぐ婚活サポート♡",
+      "url": "https://michikon.jp/blog/%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e4%ba%a4%e6%8f%9b%e4%bc%9a%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e3%83%87%e3%83%bc%e3%82%bf%e3%81%a0%e3%81%91/",
+      "publishedAt": "2026-11-19T09:02:43+00:00",
+      "thumbnail": "https://michikon.jp/wp-content/uploads/2026/11/dcf3cadef61299c69628bbbbb28085bc.png",
+      "excerpt": "プロフィール交換会を開催しました！データだけでは見つからないご縁をつなぐ婚活サポート♡ こんにちは！ 難波・心斎橋の結婚相談所ミチ婚の十川です😊 先日、仲人同士でプロフィール交換会を開催しました！ 普段の […] 投稿 "
+    },
     {
       "agencyId": "gon",
       "agencyName": "ゴンちゃんの結婚相談所",
@@ -341,16 +351,6 @@
       "publishedAt": "2026-07-19T09:00:00+00:00",
       "thumbnail": "https://www.happiness-consulting.wedding/wp-content/uploads/2026/07/img_2733.jpeg",
       "excerpt": "兵庫県西宮市甲陽園で結婚相談所をお探しの方へ。 「結婚したいけれど、出会いがない」「婚活を始めたいけれど、何からすればいいか分からない」「安心して相談できる結婚相談所を探している」 そんな方は、ハピネス婚サルティングへご"
-    },
-    {
-      "agencyId": "michikon",
-      "agencyName": "心斎橋の結婚相談所ミチ婚",
-      "media": "ブログ",
-      "title": "女性婚活応援プロジェクト始動✨",
-      "url": "https://michikon.jp/blog/project/",
-      "publishedAt": "2026-07-03T06:38:41+00:00",
-      "thumbnail": "https://michikon.jp/wp-content/uploads/2026/07/Image-4.jpg",
-      "excerpt": "IBJ主催「女性婚活応援プロジェクト」がスタートしました！ このたび、IBJが主催する**「女性婚活応援プロジェクト」**がスタートしました。 ミチ婚もこの取り組みに賛同し、結婚を真剣に考える女性の皆さまを […] 投稿"
     },
     {
       "agencyId": "blue-star",
