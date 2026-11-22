@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-21T02:03:46.483781+00:00",
+  "generatedAt": "2026-11-22T01:06:20.582244+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "理想と現実のギャップを埋める！成婚者が実践している婚活の考え方",
+      "url": "https://www.youtube.com/watch?v=oDjOrykWSAM",
+      "publishedAt": "2026-11-21T10:00:25+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oDjOrykWSAM/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "michikon",
       "agencyName": "心斎橋の結婚相談所ミチ婚",
@@ -90,16 +100,6 @@
       "url": "https://www.youtube.com/watch?v=pZKsso5r6U8",
       "publishedAt": "2026-11-12T02:37:48+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/pZKsso5r6U8/hqdefault.jpg",
-      "excerpt": ""
-    },
-    {
-      "agencyId": "gon",
-      "agencyName": "ゴンちゃんの結婚相談所",
-      "media": "YouTube",
-      "title": "【婚活の残酷な現実】男と女、お金をかけるべきなのはどっち!?",
-      "url": "https://www.youtube.com/watch?v=9wxAdC00zoE",
-      "publishedAt": "2026-11-11T10:00:37+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/9wxAdC00zoE/hqdefault.jpg",
       "excerpt": ""
     },
     {
