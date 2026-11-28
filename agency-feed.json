@@ -1,16 +1,26 @@
 {
-  "generatedAt": "2026-11-27T03:34:52.985992+00:00",
+  "generatedAt": "2026-11-28T03:11:43.299647+00:00",
   "errors": [],
   "items": [
+    {
+      "agencyId": "gon",
+      "agencyName": "ゴンちゃんの結婚相談所",
+      "media": "YouTube",
+      "title": "【婚活の落とし穴】何回デートしても友達止まり！恋人になるための7つの攻略法",
+      "url": "https://www.youtube.com/watch?v=c6cGssGmMSU",
+      "publishedAt": "2026-11-28T02:28:18+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/c6cGssGmMSU/hqdefault.jpg",
+      "excerpt": ""
+    },
     {
       "agencyId": "marl",
       "agencyName": "結婚相談所marl（マール）",
       "media": "ブログ",
-      "title": "【41歳男性がご成婚！】神奈川から大阪の結婚相談所へ。遠距離オンライン婚活でつかんだ幸せ",
+      "title": "【40歳男性がご成婚！】神奈川から大阪の結婚相談所へ。遠距離オンライン婚活でつかんだ幸せ",
       "url": "https://bridal-marl.com/new/%e3%80%9041%e6%ad%b3%e7%94%b7%e6%80%a7%e3%81%8c%e3%81%94%e6%88%90%e5%a9%9a%ef%bc%81%e3%80%91%e7%a5%9e%e5%a5%88%e5%b7%9d%e3%81%8b%e3%82%89%e5%a4%a7%e9%98%aa%e3%81%ae%e7%b5%90%e5%a9%9a%e7%9b%b8%e8%ab%87/",
       "publishedAt": "2026-11-27T02:37:13+00:00",
       "thumbnail": "https://bridal-marl.com/wp-content/uploads/2026/11/S__10493992.jpg",
-      "excerpt": "【神奈川県在住・41歳男性がご成婚！】大阪の結婚相談所marlで叶えたオンライン婚活｜交際約4ヶ月で幸せなご結婚へ 「結婚したいけれど、近くに相談できる結婚相談所がない」 「仕事が忙しく、婚活のために何度も … \"【41"
+      "excerpt": "【神奈川県在住・40歳男性がご成婚！】大阪の結婚相談所marlで叶えたオンライン婚活｜交際約4ヶ月で幸せなご結婚へ 「結婚したいけれど、近くに相談できる結婚相談所がない」 「仕事が忙しく、婚活のために何度も … \"【40"
     },
     {
       "agencyId": "gon",
